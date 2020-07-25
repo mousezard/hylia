@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Di Balik Dapur Daring "
-metaTitle: gaji startup
+metaTitle: ""
 metaDesc: Di Balik dapur daring adalah ocehan dari juru ketik lepas tentang cara
   pembuatan website dan bagaimana mendapatkan pekerjaan di startup.
 postsHeading: Latest posts
